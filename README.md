@@ -4,11 +4,11 @@
 ## H2
 ### H3
 
-1. First item
-2. Second item
-3. Third item
+1. What is here...
+2. What problem am I solving...
+3. What's next...
 
-*italicized text*
+*This is my first repository*
 
 ## Table of Contents
 - [PROJECT TITLE](#Project-Title)
